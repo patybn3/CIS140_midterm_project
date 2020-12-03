@@ -22,3 +22,11 @@ Stars:
 https://www.openprocessing.org/sketch/188203
 
 ##### This project displays the scene of a city, when the user clicks the key "n" or "N" the scene changes from day to night, and when you click on the "D" or "d" key the scene changes from night to day.
+
+## Day scene:
+
+<img width="697" alt="patriciaantlitz_city_day" src="https://user-images.githubusercontent.com/59259041/100961383-4b984d80-34f0-11eb-816a-90736a3f0ca3.png">
+
+## Night scene:
+
+<img width="698" alt="patriciaantlitz_city_night" src="https://user-images.githubusercontent.com/59259041/100961429-6074e100-34f0-11eb-8a3c-69e2a2675bf7.png">
